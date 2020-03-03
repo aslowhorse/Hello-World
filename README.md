@@ -1,3 +1,3 @@
 # Hello-World
 A new repository
-马冬的第一个repository
+学习github的使用，打下编程学习的坚实一步
